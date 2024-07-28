@@ -1,11 +1,8 @@
 [
     {
-      "color": "ebc7df",
-      "dopname": "Рыы",
-      "maxonline": 55,
+      "Рыы": "",
       "name": "Lion #1",
-      "online": 0,
-      "host": "164.132.219.35",
-      "port": 3017
+      "online": 5,
+      "maxonline": 55
     }
-  ]
+ ]
